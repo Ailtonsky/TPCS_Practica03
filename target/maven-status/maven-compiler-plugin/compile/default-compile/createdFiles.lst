@@ -1,0 +1,13 @@
+org/uv/tpcs_practica03/Producto.class
+org/uv/tpcs_practica03/HibernateUtil.class
+org/uv/tpcs_practica03/GUI.class
+org/uv/tpcs_practica03/Cliente.class
+org/uv/tpcs_practica03/TPCS_Practica03.class
+org/uv/tpcs_practica03/GUI$2.class
+org/uv/tpcs_practica03/ProductoDAO.class
+org/uv/tpcs_practica03/DetVentaDAO.class
+org/uv/tpcs_practica03/GUI$1.class
+org/uv/tpcs_practica03/DetVenta.class
+org/uv/tpcs_practica03/Venta.class
+org/uv/tpcs_practica03/ClienteDAO.class
+org/uv/tpcs_practica03/VentaDAO.class
